@@ -7,7 +7,7 @@ Stable tag: trunk
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Adds a shortcode to embed Romulus CRM contact forms on any Wordpress Page or Post.
+Adds a shortcode and widget to embed Romulus CRM contact forms on any Wordpress Page or Post.
 
 == Installation ==
 
@@ -32,3 +32,5 @@ Our team is always happy to help you install this plugin or any other integratio
 
 = 1.0 =
 * Added `romulus_contact_form` shortcode
+= 1.1 =
+* Added Romulus Contact Form widget
